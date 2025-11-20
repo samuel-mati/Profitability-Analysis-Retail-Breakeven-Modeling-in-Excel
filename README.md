@@ -14,5 +14,5 @@ The key output is the exact dollar amount needed for a **Cost Base Reduction** o
 The business suffers from a lack of financial visibility due to fragmented data (separate files for sales, expenses, and inventory). This prevents the owner from pinpointing the source of losses and reacting quickly to negative trends. The current reliance on checking the bank balance provides only a lagging indicator of financial health.
 
 **The Specific Business Question (The Mandate):**
-```"For the month exhibiting the largest loss (maximum Net Margin Erosion), what is the minimum required adjustment—either a specific dollar amount of Cost Base Reduction or a percentage increase in Revenue Uplift—needed to restore the business to a financial Breakeven Point, thereby providing a clear, high-priority mandate for immediate intervention?"
-```
+`"For the month exhibiting the largest loss (maximum Net Margin Erosion), what is the minimum required adjustment—either a specific dollar amount of Cost Base Reduction or a percentage increase in Revenue Uplift—needed to restore the business to a financial Breakeven Point, thereby providing a clear, high-priority mandate for immediate intervention?"
+`
