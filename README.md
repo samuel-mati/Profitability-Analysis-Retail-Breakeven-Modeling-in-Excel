@@ -7,6 +7,8 @@ The Solution: Using **Goal Seek** modeling in Excel, the analysis diagnoses the 
 
 The key output is the exact dollar amount needed for a **Cost Base Reduction** or **Revenue Uplift** to restore the business to a **Breakeven Point** (`Net Profit of $0`), converting financial ambiguity into a clear business target.
 
+(Business)[files/breakeven.jpeg]
+
 
 ## 3. The Business Problem
 
